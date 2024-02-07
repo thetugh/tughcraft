@@ -1,2 +1,1 @@
-# tughcraft
-minecraft pls no dmca
+# OUTDATED: GO TO https://github.com/andypod/tughcraft
